@@ -19,10 +19,10 @@ Objective: Implement a complete CRUD application for the Employee entity, includ
 
 ### Features Developed:
 
-    RESTful API: Implementation of API routes for CRUD operations.
-    Model and Migrations: Definition of the Employee model and creation of migrations for the employees table.
-    Repositories: Creation of interfaces and repositories to separate business logic and data access.
-    Controllers: Development of controllers to manage CRUD operations.
+ -- RESTful API: Implementation of API routes for CRUD operations.
+ -- Model and Migrations: Definition of the Employee model and creation of migrations for the employees table.
+ -- Repositories: Creation of interfaces and repositories to separate business logic and data access.
+ -- Controllers: Development of controllers to manage CRUD operations.
 
 ## About Project API RESTful
 
