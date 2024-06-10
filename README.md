@@ -9,7 +9,22 @@
 
 ## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### CRUD API development with Laravel 11 and Repository Pattern
+
+Technologies Used: Laravel 11, PHP, MySQL
+
+Design Patterns: MVC (Model-View-Controller), Repository Pattern
+
+Objective: Implement a complete CRUD application for the Employee entity, including create, read, update, delete and view operations.
+
+### Features Developed:
+
+    RESTful API: Implementation of API routes for CRUD operations.
+    Model and Migrations: Definition of the Employee model and creation of migrations for the employees table.
+    Repositories: Creation of interfaces and repositories to separate business logic and data access.
+    Controllers: Development of controllers to manage CRUD operations.
+
+## About Project API RESTful
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
